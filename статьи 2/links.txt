@@ -1,0 +1,6 @@
+https://habr.com/ru/company/recognitor/blog/468421/
+https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet
+
+https://github.com/jolibrain/dd_performances
+https://www.dlology.com/blog/how-to-run-tensorflow-object-detection-model-on-jetson-nano/
+https://github.com/tensorflow/tensorflow/tree/r2.0/tensorflow/contrib/quantize
